@@ -15,7 +15,7 @@ Maven
 ## Benefits of Local Variable Type Inference:
 
 
-It improves the developer experience  
-It reduces code ceremony  
-It reduces boiler plate code  
-Increases code clarity  
+- It improves the developer experience  
+- It reduces code ceremony  
+- It reduces boiler plate code  
+- Increases code clarity  
