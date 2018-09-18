@@ -9,8 +9,8 @@ $ mvn clean install
 
 ## Technologies
 
-Java 10  
-Maven 
+- Java 10  
+- Maven 
 
 ## Benefits of Local Variable Type Inference:
 
